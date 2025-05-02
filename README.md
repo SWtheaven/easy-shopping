@@ -1,1 +1,4 @@
-![image](https://github.com/user-attachments/assets/5355d191-10ab-4ab7-83da-46ecc63cebad)
+<h1>Easy Shopping</h1>
+<br>
+<br>
+<h2>Esse foi um dos projetos que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub.</a></h2>
